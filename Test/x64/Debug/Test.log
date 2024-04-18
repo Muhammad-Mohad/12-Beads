@@ -1,0 +1,133 @@
+﻿  Main.cpp
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(179,87): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(179,87): warning C4244:         with
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(179,87): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(179,87): warning C4244:             T=int
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(179,87): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(179,87): warning C4244:         and
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(179,87): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(179,87): warning C4244:             T=float
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(179,87): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(179,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(179,70): warning C4244:         with
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(179,70): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(179,70): warning C4244:             T=int
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(179,70): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(179,70): warning C4244:         and
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(179,70): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(179,70): warning C4244:             T=float
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(179,70): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(182,91): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(182,91): warning C4244:         with
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(182,91): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(182,91): warning C4244:             T=int
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(182,91): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(182,91): warning C4244:         and
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(182,91): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(182,91): warning C4244:             T=float
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(182,91): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(182,74): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(182,74): warning C4244:         with
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(182,74): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(182,74): warning C4244:             T=int
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(182,74): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(182,74): warning C4244:         and
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(182,74): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(182,74): warning C4244:             T=float
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(182,74): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(185,93): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(185,93): warning C4244:         with
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(185,93): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(185,93): warning C4244:             T=int
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(185,93): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(185,93): warning C4244:         and
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(185,93): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(185,93): warning C4244:             T=float
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(185,93): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(185,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(185,76): warning C4244:         with
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(185,76): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(185,76): warning C4244:             T=int
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(185,76): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(185,76): warning C4244:         and
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(185,76): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(185,76): warning C4244:             T=float
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(185,76): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(192,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(192,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(195,99): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(195,99): warning C4244:         with
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(195,99): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(195,99): warning C4244:             T=int
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(195,99): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(195,99): warning C4244:         and
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(195,99): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(195,99): warning C4244:             T=float
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(195,99): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(195,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(195,82): warning C4244:         with
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(195,82): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(195,82): warning C4244:             T=int
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(195,82): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(195,82): warning C4244:         and
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(195,82): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(195,82): warning C4244:             T=float
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(195,82): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(224,114): warning C4805: '==': unsafe mix of type 'char' and type 'bool' in operation
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(268,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(268,79): warning C4244:         with
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(268,79): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(268,79): warning C4244:             T=int
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(268,79): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(268,79): warning C4244:         and
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(268,79): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(268,79): warning C4244:             T=float
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(268,79): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(268,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(268,62): warning C4244:         with
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(268,62): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(268,62): warning C4244:             T=int
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(268,62): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(268,62): warning C4244:         and
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(268,62): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(268,62): warning C4244:             T=float
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(268,62): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(275,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(275,79): warning C4244:         with
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(275,79): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(275,79): warning C4244:             T=int
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(275,79): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(275,79): warning C4244:         and
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(275,79): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(275,79): warning C4244:             T=float
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(275,79): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(275,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(275,62): warning C4244:         with
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(275,62): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(275,62): warning C4244:             T=int
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(275,62): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(275,62): warning C4244:         and
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(275,62): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(275,62): warning C4244:             T=float
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(275,62): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(282,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(282,80): warning C4244:         with
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(282,80): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(282,80): warning C4244:             T=int
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(282,80): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(282,80): warning C4244:         and
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(282,80): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(282,80): warning C4244:             T=float
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(282,80): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(282,63): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(282,63): warning C4244:         with
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(282,63): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(282,63): warning C4244:             T=int
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(282,63): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(282,63): warning C4244:         and
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(282,63): warning C4244:         [
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(282,63): warning C4244:             T=float
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(282,63): warning C4244:         ]
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(351,76): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\Test\Main.cpp(351,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Test.vcxproj -> D:\University\Semester 1\Progamming Fundamentals\23L-0784_23L-3041_Project\x64\Debug\Test.exe
